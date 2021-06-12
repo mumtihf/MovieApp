@@ -1,0 +1,4 @@
+include ':favorite'
+include ':mycore'
+include ':app'
+rootProject.name = "JetpackSubmission"

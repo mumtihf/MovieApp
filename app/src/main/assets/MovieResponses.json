@@ -1,0 +1,194 @@
+{
+  "movies": [
+    {
+      "filmId": "a1",
+      "title": "A Star Is Born",
+      "type": "Drama, Romance, Music",
+      "duration": "2h 16m",
+      "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "date": "October 3, 2018",
+      "slogan": "-",
+      "imagePath": "https://www.themoviedb.org/t/p/original/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+    },
+    {
+      "filmId": "a2",
+      "title": "Alita: Battle Angel",
+      "type": "Action, Science Fiction, Adventure",
+      "duration": "2h 2m",
+      "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+      "date": "January 31, 2019",
+      "slogan": "An angel falls. A warrior rises.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+    },
+    {
+      "filmId": "a3",
+      "title": "Aquaman",
+      "type": "Action, Adventure, Fantasy",
+      "duration": "2h 33m",
+      "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "date": "December 7, 2018",
+      "slogan": "Home Is Calling",
+      "imagePath": "https://www.themoviedb.org/t/p/original/uCg2HPY7rBCrh1YGpXam9LH1xKZ.jpg"
+    },
+    {
+      "filmId": "a4",
+      "title": "Bohemian Rhapsody",
+      "type": "Music, Drama, History",
+      "duration": "2h 15m",
+      "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "date": "October 24, 2018",
+      "slogan": "Fearless lives forever",
+      "imagePath": "https://www.themoviedb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+    },
+    {
+      "filmId": "a5",
+      "title": "Cold Pursuit",
+      "type": "Action, Crime, Thriller",
+      "duration": "1h 59m",
+      "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+      "date": "February 7, 2019",
+      "slogan": "Meet Nels Coxman. Citizen of the Year.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg"
+    },
+    {
+      "filmId": "a6",
+      "title": "Creed II",
+      "type": "Drama",
+      "duration": "2h 10m",
+      "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+      "date": "November 21, 2018",
+      "slogan": "There's More to Lose than a Title",
+      "imagePath": "https://www.themoviedb.org/t/p/original/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg"
+    },
+    {
+      "filmId": "a7",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "type": "Adventure, Fantasy, Drama",
+      "duration": "2h 14m",
+      "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+      "date": "November 14, 2018",
+      "slogan": "Fate of One. Future of All.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/u5QrKhSCGoFsB8aAvZZJ1b53k16.jpg"
+    },
+    {
+      "filmId": "a8",
+      "title": "Glass",
+      "type": "Thriller, Drama, Science Fiction",
+      "duration": "2h 9m",
+      "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "date": "January 16, 2019",
+      "slogan": "You Cannot Contain What You Are",
+      "imagePath": "https://www.themoviedb.org/t/p/original/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+    },
+    {
+      "filmId": "a9",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "type": "Animation, Family, Adventure",
+      "duration": "1h 44m",
+      "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "date": "January 3, 2019",
+      "slogan": "One adventure will change two worlds",
+      "imagePath": "https://www.themoviedb.org/t/p/original/gHoZaNRTCYNjftaqZFjjV15OSHr.jpg"
+    },
+    {
+      "filmId": "a10",
+      "title": "Avengers: Infinity War",
+      "type": "Adventure, Action, Science Fiction",
+      "duration": "2h 29m",
+      "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "date": "April 25, 2018",
+      "slogan": "An entire universe. Once and for all.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    {
+      "filmId": "a11",
+      "title": "Mary Queen of Scots",
+      "type": "Drama, History",
+      "duration": "2h 4m",
+      "overview": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
+      "date": "December 7, 2018",
+      "slogan": "Bow to No One",
+      "imagePath": "https://www.themoviedb.org/t/p/original/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
+    },
+    {
+      "filmId": "a12",
+      "title": "Master Z: Ip Man Legacy",
+      "type": "Action",
+      "duration": "1h 47m",
+      "overview": "Following his defeat by Master Ip, Cheung Tin Chi tries to make a life with his young son in Hong Kong, waiting tables at a bar that caters to expats. But it's not long before the mix of foreigners, money, and triad leaders draw him once again to the fight.",
+      "date": "December 20, 2018",
+      "slogan": "-",
+      "imagePath": "https://www.themoviedb.org/t/p/original/6VxEvOF7QDovsG6ro9OVyjH07LF.jpg"
+    },
+    {
+      "filmId": "a13",
+      "title": "Mortal Engines",
+      "type": "Adventure, Science Fiction",
+      "duration": "2h 9m",
+      "overview": "Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.",
+      "date": "November 27, 2018",
+      "slogan": "Some scars never heal",
+      "imagePath": "https://www.themoviedb.org/t/p/original/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg"
+    },
+    {
+      "filmId": "a14",
+      "title": "Overlord",
+      "type": "Horror, War, Science Fiction",
+      "duration": "1h 50m",
+      "overview": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+      "date": "November 1, 2018",
+      "slogan": "Stop the unstoppable",
+      "imagePath": "https://www.themoviedb.org/t/p/original/l76Rgp32z2UxjULApxGXAPpYdAP.jpg"
+    },
+    {
+      "filmId": "a15",
+      "title": "Wreck-It Ralph",
+      "type": "Family, Animation, Comedy, Adventure",
+      "duration": "1h 41m",
+      "overview": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
+      "date": "November 1, 2012",
+      "slogan": "The story of a regular guy just looking for a little wreck-ognition.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/aqOWDTgb8GnMv9cInjKDgAyDM3i.jpg"
+    },
+    {
+      "filmId": "a16",
+      "title": "Robin Hood",
+      "type": "Adventure, Action, Thriller",
+      "duration": "1h 56m",
+      "overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+      "date": "November 21, 2018",
+      "slogan": "The legend you know. The story you don't.",
+      "imagePath": "https://www.themoviedb.org/t/p/original/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg"
+    },
+    {
+      "filmId": "a17",
+      "title": "Serenity",
+      "type": "Thriller, Mystery, Drama",
+      "duration": "1h 42m",
+      "overview": "The quiet life of Baker Dill, a fishing boat captain who lives on the isolated Plymouth Island, where he spends his days obsessed with capturing an elusive tuna while fighting his personal demons, is interrupted when someone from his past comes to him searching for help.",
+      "date": "January 24, 2019",
+      "slogan": "On Plymouth Island, no one ever dies… unless you break the rules",
+      "imagePath": "https://www.themoviedb.org/t/p/original/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg"
+    },
+    {
+      "filmId": "a18",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "Action, Adventure, Animation, Science Fiction, Comedy",
+      "duration": "1h 57m",
+      "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson Kingpin Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "date": "December 6, 2018",
+      "slogan": "More Than One Wears the Mask",
+      "imagePath": "https://www.themoviedb.org/t/p/original/3cZn1k8x0bikrDKEy9ZKJ6Vdj30.jpg"
+    },
+    {
+      "filmId": "a19",
+      "title": "T-34",
+      "type": "War, Action, Drama, History",
+      "duration": "2h 19m",
+      "overview": "In 1944, a courageous group of Russian soldiers managed to escape from German captivity in a half-destroyed legendary T-34 tank. Those were the times of unforgettable bravery, fierce fighting, unbreakable love, and legendary miracles.",
+      "date": "December 27, 2018",
+      "slogan": "Fast And Furious On Tanks",
+      "imagePath": "https://www.themoviedb.org/t/p/original/jqBIHiSglRfNxjh1zodHLa9E7zW.jpg"
+    }
+  ]
+}

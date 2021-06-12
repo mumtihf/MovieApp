@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nude_200">#7C876F</color>
+    <color name="nude_500">#726A58</color>
+    <color name="nude_700">#605149</color>
+    <color name="teal_200">#42493A</color>
+    <color name="teal_700">#647C6A</color>
+    <color name="black">#010000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="placeholder">#6FB6B6B6</color>
+</resources>
