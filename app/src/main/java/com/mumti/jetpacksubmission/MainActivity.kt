@@ -24,4 +24,13 @@ class MainActivity : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
     }
+
+    override fun onBackPressed() {
+        if (supportFragmentManager.backStackEntryCount == 0){
+            finish()
+        }
+        else {
+            super.onBackPressed()
+        }
+    }
 }
